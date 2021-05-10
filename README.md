@@ -8,14 +8,14 @@
 <a href="https://pinterest.com">
   <img align="right" alt="HalbertKun Pinterest" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />
 </a>
-<a href="https://t.me/HalbertKun">
+<a href="https://t.me/IamYourEnemy">
   <img align="left" alt="HalbertKun Telegram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://twitter.com">
   <img align="left" alt="HalbertKun Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/">
-  <img align="left" alt="HalbertKun Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/hendraputraaaaaa">
+  <img align="left" alt="Halbert Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com">
   <img align="center" alt="HalbertKun Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
